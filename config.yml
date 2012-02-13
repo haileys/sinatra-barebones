@@ -1,0 +1,14 @@
+development:
+  db:
+    adapter: mysql2
+    host: localhost
+    username: root
+    password: 
+    database: sinatra-barebones-development
+production:
+  db:
+    adapter: mysql2
+    host: localhost
+    username: root
+    password: 
+    database: sinatra-barebones-production
